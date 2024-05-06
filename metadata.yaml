@@ -1,0 +1,36 @@
+_repo: Doctor-Dolittle-in-the-Moon_73411
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lofting, Hugh
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '269'
+    url: http://www.gutenberg.org/2009/agents/269
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Lofting
+description: Illustrated by the author.
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73411'
+language: en
+pgterms:marc905: 20240416113851lofting
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Al Haines, Pay McCoy & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: '  $aNew York, NY :$bJ.B. Lippingcott Company, $c1928, copyright
+  1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Insects -- Juvenile fiction'
+- !lcsh 'Moon -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Doctor Dolittle in the Moon
+url: http://www.gutenberg.org/ebooks/73411
